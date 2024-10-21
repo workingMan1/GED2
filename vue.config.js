@@ -1,6 +1,7 @@
 const path = require('path');
 module.exports = {
-    publicPath: "/GED/",
+
+    publicPath: "/GED2/",
     pluginOptions: {
         i18n: {
             locale: 'en',
